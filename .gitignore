@@ -1,0 +1,8 @@
+#node
+node_modules/
+#macOS files
+.DS_Store
+#angular
+frontend/.angular/cache/
+#vscode
+.vscode/
